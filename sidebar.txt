@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctp:home|Door43 (ctp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctp|d43-ctp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctp/archive/master.zip|d43-ctp.zip]]
+
+**Recent Changes**
+{{changes>ns = ctp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctp|Ethnologue data]]
+
